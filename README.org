@@ -1,2 +1,19 @@
 Programy sprawdzaj¹ce.
 
+* makefile
+  Prosty makefile który kompilue ka¿dy plik z rozszerzeniem .c w
+  bie¿¹cym katalogu jako osobny program.
+  Nastêpnie wykonuje wszystkie skompilowane programy i wypisuje na
+  ekran efekt ich wykonania.
+
+* read_unallocated.c
+  Program pokazuje efekt próby odczytu niezaalokowanego bloku pamiêci.
+
+* write_unallocated.c
+  Program pokazuje efekt próby zapisu do niezaalokowanego bloku pamiêci.
+
+* ...
+
+#
+# -*- coding: utf-8-unix -*-
+#
